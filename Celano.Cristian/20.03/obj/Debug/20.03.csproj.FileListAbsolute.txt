@@ -1,0 +1,6 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Celano.Cristian\20.03\bin\Debug\20.03.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Celano.Cristian\20.03\bin\Debug\20.03.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Celano.Cristian\20.03\bin\Debug\20.03.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Celano.Cristian\20.03\obj\Debug\20.03.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Celano.Cristian\20.03\obj\Debug\20.03.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Celano.Cristian\20.03\obj\Debug\20.03.pdb
