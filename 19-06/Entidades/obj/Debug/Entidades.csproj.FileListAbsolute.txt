@@ -1,0 +1,10 @@
+D:\VisualStudio\19-06\Entidades\bin\Debug\Entidades.exe.config
+D:\VisualStudio\19-06\Entidades\bin\Debug\Entidades.exe
+D:\VisualStudio\19-06\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\19-06\Entidades\bin\Debug\Entidades.Alumnos.dll
+D:\VisualStudio\19-06\Entidades\bin\Debug\Entidades.Alumnos.pdb
+D:\VisualStudio\19-06\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\19-06\Entidades\obj\Debug\Entidades.exe
+D:\VisualStudio\19-06\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\19-06\Entidades\bin\Debug\Entidades.Externa.dll
+D:\VisualStudio\19-06\Entidades\bin\Debug\Entidades.Externa.Sellada.dll
